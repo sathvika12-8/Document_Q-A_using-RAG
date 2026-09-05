@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+pypdf
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+ollama
